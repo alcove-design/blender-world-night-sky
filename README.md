@@ -1,5 +1,13 @@
 # blender-world-night-sky
 
+## Archiving the repository
+
+Using the stars map to illuminate the scene brings low benefits over just using a plain color in the world settings, but certainly has a high overhead on the performance due to the size of the HDRI image.
+
+Other approaches such as displaying the sky image in the background (on a large sphere for instance) make more sense, so this repository is getting archived.
+
+## Introduction
+
 World configuration for Blender 3D, featuring:
 
 * Map of the actual stars of our sky, based on NASA imagery.
